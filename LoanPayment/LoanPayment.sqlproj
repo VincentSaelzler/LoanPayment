@@ -67,5 +67,6 @@
     <Build Include="dbo\Tables\Month.sql" />
     <Build Include="dbo\Tables\Loan.sql" />
     <Build Include="dbo\Stored Procedures\DeleteAll.sql" />
+    <Build Include="dbo\Stored Procedures\DeleteAllExceptLoan.sql" />
   </ItemGroup>
 </Project>
