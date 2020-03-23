@@ -72,6 +72,6 @@
     <Build Include="dbo\Stored Procedures\DeleteAllExceptLoan.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Snapshots\LoanPayment_v2.0.dacpac" />
+    <None Include="Snapshots\LoanPayment_v2.0.1.dacpac" />
   </ItemGroup>
 </Project>
