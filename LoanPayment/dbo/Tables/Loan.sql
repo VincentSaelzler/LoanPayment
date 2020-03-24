@@ -1,7 +1,7 @@
 ﻿CREATE TABLE [dbo].[Loan] (
     [InsurancePayment]   FLOAT NOT NULL,
     [InsuranceThreshold] FLOAT NOT NULL,
-    [Id]             INT            NOT NULL,
+    [Id]             INT IDENTITY           NOT NULL,
     [LoanName]           NVARCHAR (255) NOT NULL,
     [MinPayment]         FLOAT NOT NULL,
     [Principal]          FLOAT NOT NULL,

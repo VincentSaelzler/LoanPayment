@@ -73,5 +73,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Snapshots\LoanPayment_v2.0.1.dacpac" />
+    <None Include="Snapshots\LoanPayment_v3.0.0.dacpac" />
   </ItemGroup>
 </Project>
